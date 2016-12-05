@@ -1,0 +1,91 @@
+$main: #ff6161;
+
+html,
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
+h1 {
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+h3 {
+  font-size: 1.7rem;
+}
+
+@media (min-width: 800px) {
+  header .container {
+    display: flex;
+    align-items: center;
+    height: 18vh;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+header h1,
+.sub-header h1 {
+  margin: 0;
+}
+
+header nav a {
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-decoration: none;
+  padding-left: 1rem;
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+.container {
+  width: 90%;
+  margin:  auto;
+  display: flex;
+}
+
+@media (min-width: 800px) {
+  .container {
+    width: 782px;
+  }
+}
+
+article h1:first-child {
+  background: $main;
+  color: white;
+  font-size: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  line-height: 160%;
+  margin-top: 0;
+  width: 100%;
+}
+
+article p,
+article li {
+  font-family: "PT Serif", serif;
+  color: lighten(#000, 25%);
+  font-size: 1.5rem;
+  line-height: 180%;
+}
+
+article p:last-child {
+  margin-bottom: 4rem;
+}

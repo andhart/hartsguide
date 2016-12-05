@@ -1,0 +1,95 @@
+---
+layout: post
+permalink: "/diet"
+title:  "Diet"
+---
+
+## Introduction
+
+The first and most crucial step to fitness is fixing your diet. Being fit is a function of your diet **more than anything else**. Fixing your diet will also allow you to get the maximum output of your lifting sessions. My goal with this part of the guide is to show you that dieting can be enjoyable and sustainable.
+
+## What is the kilocalorie?
+
+The first thing you must understand, is that your body, like everything else in the universe, uses energy to function. However, for the body to use energy, you must provide it energy in the form of food.
+
+Nutritionists measure the amount of energy in food with units called kilocalories (also called calories, for simplicity). Only by using and manipulating the calorie can we lose or gain weight.
+
+## Total Daily Energy Expenditure
+
+We now need a way now to calculate how much energy your body uses in order to know how much energy to put back in. The amount of calories your body burns in a day depends on a couple factors, including your body composition, quality of sleep, height, activity level, and age. The total amount of calories your body needs is called your **Total Daily Energy Expenditure** (TDEE).
+
+## Finding your TDEE
+
+One thing you will need is a [weight scale](https://www.amazon.com/gp/product/B00F3J9G1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F3J9G1W&linkCode=as2&tag=hartsguide-20&linkId=ea307dbfdfffbe12d48d18c3d6bcaed2). There's a few calorie calculators that you can find by searching online, however they only provide rough estimates. The only way to really know your TDEE is by measuring whether you are losing or gaining weight day to day with the scale.
+
+## Losing weight
+
+So, now that you have learned about your TDEE and how many calories your body will burn in a day, it’s time to learn how to manipulate that amount to lose weight.
+
+As mentioned before, your body needs energy to use energy. When the body receives less energy than it burns in a day, it no longer has enough energy to sustain its previous self. Your body will try and become more efficient, and as a result, you will lose weight.
+
+We can now use the TDEE as our base point. In order to lose weight, you must consume less calories than your TDEE. As an example, if your TDEE was 2000 calories, and you ate at 1500 calories, you would be consistently losing about a pound a week.
+
+## Gaining weight
+
+To gain weight, eat above your TDEE. It's that simple.
+
+## Why should I gain weight?
+
+For those wishing to improve their muscle mass and already at a lower body fat, I recommend bulking up slowly. Muscle is gained faster when you are eating in a caloric surplus.
+
+Notice I said slowly. Bulking up too fast can lead to excessive fat gain. Keep your calories within 500 over your TDEE while bulking.
+
+Another thing to realize is that when bulking, you will inevitably gain some fat. The key is minimizing the amount of fat gain, while maximizing the amount of muscle you gain.
+
+## How do I track my calorie intake?
+
+For those who want to be precise, or beginners, apps like [MyFitnessPal](//www.myfitnesspal.com) or [FatSecret](//www.fatsecret.com) will help you record what you eat. It takes a bit of effort, but theres no more accurate method of tracking calories.
+
+Over time, however, you will be able to judge calories in foods without the use of an app.
+
+## Slow and steady wins the race
+
+In the example about losing weight, I recommended eating 1500 calories if your TDEE was 2000. I didn’t recommend 1000, and I definitely didn’t recommend lower. That is because it is always better to lose (or gain) weight in a slow and controlled manner.
+
+Eat within 500 calories of your TDEE. Closer to your TDEE is even better, though it will take longer to reach your goals. Slow weight loss minimizes muscle loss, while slow weight gain minimizes fat gain.
+
+## Tactics for eating
+
+Some people like to employ an eating strategy to help them keep in line with their calorie goals.
+
+One rule I follow has been to cut out snacking during the day. Snacks are to be ate alongside a meal, or at the end of the night when I have calories to spare.
+
+Another approach is just eating two big meals in a day. Cut out a meal (typically breakfast), which leaves 1/2 of your TDEE to be eaten in two meals. If my TDEE was 2500 calories, and I was trying to eat in a caloric deficit, I’d probably eat 1000 calories the first meal, and 1000 calories the second. That means I ate two gigantic meals (1000 calories in a meal is a lot of food in one sitting) and I'm still on track to lose a pound a week. I could have also brought one or both meals down a little and saved room for dessert or a snack at the end of the night.
+
+The key is to find an approach thats enjoyable for you.
+
+## Enjoying yourself and eating what you want
+
+One of my controversial opinions is on what you should eat. I believe that the more you get into fitness, the healthier you will want to eat. Eating healthier foods will allow to feel better and have better workouts.
+
+But that's not how you should start. Begin your fitness journey by focusing completely on hitting your calorie goals. That means eat and drink the foods you want, as long as your caloric needs are met. Make your diet enjoyable, so it can be sustainable.
+
+You will notice after a while that eating around 20% of your diet in protein and 50% of your diet in carbohydrates will make you feel better working out. Also the more vitamins you eat, the better you will feel overall. But drastic changes to your diet will make it incredibly hard to sustain over a long period of time. Ease into a healthy diet.
+
+## Getting enough protein
+
+Most fitness guides tell you to consume a lot more protein than you actually need. Focus on eating/drinking 0.45-1 grams of protein per pound of total body weight. If you reach this number with food, then there is no reason to supplement with protein powder.
+
+## FAQ
+
+### What about supplements?
+
+Supplements can be helpful when your not getting what they provide naturally. However, they are not necessary and you can definitely achieve a good physique without them. Tread carefully and do your research.
+
+### What about low-carb diets?
+
+For the most part, they are kind of gimmicky. In some studies, there has been shown there are benefits for certain athletes. For the most part, though, they simply trick you into eating foods that are less calorically dense. Plus, like I’ve mentioned before, an enjoyable diet is a sustainable one, and carbohydrates are delicious.
+
+### Do drinks have calories?
+
+Yes, most do.
+
+### What’s a good physique?
+
+I define it in this guide as having low body fat and a perfect amount of muscle.
