@@ -11,6 +11,6 @@ In the last fifteen years, the fitness industry has seen an explosion in popular
 
 That's why I wrote this guide to help people, like me a few years ago, who want to get fit but don’t want to have to weed out all the misinformation the fitness industry contains.
 
-The other reason I wrote this guide is because I believe that an easier approach to dieting and lifting is needed. A philosophy that allows you to go to the gym 2-3 times a week, and a diet that is sustainable and healthy.
+The other reason I wrote this guide is because I believe that an easier approach to dieting and lifting is needed. A workout that only requires you to go to the gym 2-3 times a week, and a diet that is enjoyable and sustainable.
 
-I wrote this guide for men, however, as I believe that a the typical man's goal physique differs quite a bit from a woman's. Having said that, almost all of the information in this guide is also applicable to women.
+I wrote this guide for men as I believe that a the typical man's goal physique differs quite a bit from a woman's. Having said that, almost all of the information in this guide is also applicable to women.
